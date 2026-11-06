@@ -25,7 +25,7 @@ Abra http://localhost:8000/docs, clique em **Authorize** e entre com:
 | Cidadão | 12345678909 | 123456 |
 | Equipe técnica | 11111111111 | admin123 |
 
-> O `ilumina.db` é um arquivo único: para mostrar à professora, basta rodar o seed e abrir o `/docs`
+> O `ilumina.db` é um arquivo único:Basta rodar o seed e abrir o `/docs`
 > (ou abrir o arquivo no "DB Browser for SQLite" para ver as tabelas). LC
 
 ## Rodar os dois fronts (cada um em um terminal)
