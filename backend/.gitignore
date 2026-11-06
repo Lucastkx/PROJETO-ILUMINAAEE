@@ -1,0 +1,17 @@
+
+
+
+# Dependências
+node_modules/
+src/node_modules/
+
+# Ambiente Virtual Python
+.venv/
+__pycache__/
+
+# Banco de dados local e uploads
+ilumina.db
+uploads/
+
+# Variáveis de ambiente
+.env
