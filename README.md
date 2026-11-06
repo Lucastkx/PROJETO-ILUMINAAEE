@@ -47,7 +47,7 @@ Se o backend não estiver em `http://localhost:8000`, copie `.env.example` para 
 ### Roteiro de demonstração
 
 1. **Prefeitura** (5174): entre com `11111111111` / `admin123` e veja o mapa, os números e o chamado urgente piscando.
-2. **Cidadão** (5173): entre com `05132568701` / `123456`, abra **+ Novo chamado**, escolha um poste, foto e envie. e acompanhe seu chamado.
+2. **Cidadão** (5173): entre com `12345678909` / `123456`, abra **+ Novo chamado**, escolha um poste, foto e envie. e acompanhe seu chamado.
 3. Volte ao painel: em até 15s aparece o aviso de **novo chamado**. Clique nele, **Enviar equipe**, depois **Finalizar**.
 4. No app do cidadão, em **Meus chamados**, a barra de andamento já mudou.
 
